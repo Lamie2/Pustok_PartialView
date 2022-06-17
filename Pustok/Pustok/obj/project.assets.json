@@ -8480,11 +8480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok_PartialView\\Pustok\\Pustok\\Pustok.csproj",
+      "projectUniqueName": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok\\Pustok\\Pustok.csproj",
       "projectName": "Pustok",
-      "projectPath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok_PartialView\\Pustok\\Pustok\\Pustok.csproj",
+      "projectPath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok\\Pustok\\Pustok.csproj",
       "packagesPath": "C:\\Users\\Lamia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok_PartialView\\Pustok\\Pustok\\obj\\",
+      "outputPath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok\\Pustok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lamia\\AppData\\Roaming\\NuGet\\NuGet.Config",

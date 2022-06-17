@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MlKmcv47/lWPmCi8qHwNneX/Rf0Jn1a73rsA1BeGofeO4hDX4oFU4hoLRrUHRbhHCSZD/T+oEqGAGy131bmiKg==",
+  "dgSpecHash": "rV7jTJOlmR9VValrpeQZvNbSpwEOfp0Mb8NtEhjyDynY+kAdHq4A+41sFAy7BMrNNxUcyPQT+jB1MWpafOhBzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok_PartialView\\Pustok\\Pustok\\Pustok.csproj",
+  "projectFilePath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\Pustok_PartialView\\Pustok\\Pustok\\Pustok.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lamia\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Lamia\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
